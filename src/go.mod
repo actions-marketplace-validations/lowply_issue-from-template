@@ -1,6 +1,6 @@
 module github.com/lowply/issue-from-template
 
-go 1.12
+go 1.23.5
 
 require (
 	github.com/jinzhu/now v1.1.5
